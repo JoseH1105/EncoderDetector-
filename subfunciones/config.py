@@ -12,7 +12,8 @@ import os
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # carpeta del proyecto
 DIR_DATOS = os.path.join(RAIZ, "datos")
 DIR_SALIDAS = os.path.join(DIR_DATOS, "salidas_calibracion")
-DIR_FOTOS = os.path.abspath(os.path.join(RAIZ, "..", "Fotos T2"))     # fotos de ejemplo y de calibración
+# Fotos de ejemplo y de calibración: ejemplos/ del proyecto, o la carpeta que indique ENCODER_FOTOS
+DIR_FOTOS = os.path.abspath(os.environ.get("ENCODER_FOTOS") or os.path.join(RAIZ, "ejemplos"))
 RUTA_CALIBRACION = os.path.join(DIR_DATOS, "calibracion.json")
 
 # ---------------------------------------------------------------- disco físico

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.gradio/
+datos/salidas_calibracion/etiquetas.csv.raiz
+ruido_*.zip

@@ -4,12 +4,12 @@ Medición por lotes y reglas de umbral (sección 9).
 Usa los mismos módulos del sistema. Las salidas van a datos/salidas_calibracion/
 y los umbrales a datos/calibracion.json. Pasos:
 
-  python calibrar.py etiquetas --fotos "../Fotos T2"   # 1. etiquetas.csv
+  python calibrar.py etiquetas --fotos <carpeta_fotos> # 1. etiquetas.csv
   python calibrar.py medir                              # 2. mediciones.csv (bloques 1 a 6, sin decidir)
   python calibrar.py color                              # 3. muestras_color.json (manual, cv2.selectROI)
   python calibrar.py umbrales                           # 4. calibracion.json
   python calibrar.py revisar                            # 5. resultados.csv + gráficas para el anexo
-  python calibrar.py todo --fotos "../Fotos T2"         #    1 + 2 + 4 + 5
+  python calibrar.py todo --fotos <carpeta_fotos>       #    1 + 2 + 4 + 5
   python calibrar.py ruido --zip ruido_diseno_….zip     # barrido de K_BILATERAL y σ vs σ̂
 
 Reglas (nunca se ajusta un valor a mano; si una regla no separa, se
@@ -109,7 +109,7 @@ def _sugerir_disco(med):
 
 
 def _raiz():
-    """Carpeta de fotos usada al crear etiquetas.csv (por defecto ../Fotos T2)."""
+    """Carpeta de fotos usada al crear etiquetas.csv (por defecto config.DIR_FOTOS)."""
     if os.path.exists(RUTA_ETIQ + ".raiz"):
         with open(RUTA_ETIQ + ".raiz", encoding="utf-8") as f:
             r = f.read().strip()

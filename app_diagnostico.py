@@ -247,9 +247,10 @@ def construir():
                 if ejemplos:
                     elegidos = []
                     for carpeta in sorted({os.path.dirname(e) for e in ejemplos}):
-                        elegidos.append(sorted(e for e in ejemplos if os.path.dirname(e) == carpeta)[1])
-                    gr.Examples([[e] for e in elegidos[:10]], inputs=[archivo], label="Fotos de ejemplo",
-                                example_labels=[os.path.relpath(os.path.dirname(e), FOTOS) for e in elegidos[:10]])
+                        grupo = sorted(e for e in ejemplos if os.path.dirname(e) == carpeta)
+                        elegidos.append(grupo[min(1, len(grupo) - 1)])
+                    gr.Examples([[e] for e in elegidos[:16]], inputs=[archivo], label="Fotos de ejemplo",
+                                example_labels=[os.path.relpath(os.path.dirname(e), FOTOS) for e in elegidos[:16]])
 
             with gr.Column(scale=8, min_width=420):
                 with gr.Tabs(selected="t4") as tabs:
