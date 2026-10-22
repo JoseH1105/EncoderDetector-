@@ -1,0 +1,35 @@
+{
+  "version": "v0",
+  "fecha": "2026-10-08T22:16:21",
+  "fotos_diseno": 93,
+  "valores": {
+    "F_MIN": 2.831,
+    "F_BUENO": 7.996,
+    "Z_MIN": 4.07,
+    "SAT_MARCA_MAX": 23.96,
+    "ETA_MIN": 0.6,
+    "ETA_ALTO": 0.86,
+    "SIGMA_CAMARA": 0.85,
+    "A_MIN": 0.131,
+    "W_H0": 14.98,
+    "W_H_TOL": 1.67,
+    "W_B0": 15.02,
+    "W_B_TOL": 1.57,
+    "K_BILATERAL": 2.0
+  },
+  "reglas": {
+    "F_MIN": "punto medio entre max(F desenfocadas)=1.532 y min(F resto)=4.131; separa=True. F_BUENO = tercil inferior del resto",
+    "Z_MIN": "max(z mucho brillo)=6.89, min(z legibles)=5.16; separa=False; umbral de mínimo error y máximo margen",
+    "SAT_MARCA_MAX": "buenos hasta 97.4 %, mucho brillo desde 47.9 %; separa=False; umbral de mínimo error. Hay tomas con la banda recortada y la marca aún visible: el rechazo lo completa Z_MIN",
+    "ETA_MIN": "sin grupo malo en la sesión: se conserva 0.6 salvo que una foto limpia quede debajo (min η limpias = 0.70). ETA_ALTO = tercil",
+    "SIGMA_CAMARA": "p95(σ̂ limpias)=0.35 + 0.5",
+    "A_MIN": "media geométrica entre la mayor falsa detección sin manchas (0.004 %) y la menor mancha principal en fotos manchadas (4.19 %)",
+    "W_H_TOL": "media ± 3σ de 204 huecos del disco correcto (17 fotos); piso 1° (resolución ±0,5°)",
+    "W_B_TOL": "media ± 3σ de 204 barras entre orificios del disco correcto (17 fotos); piso 1°",
+    "K_BILATERAL": "barrido [1.0, 2.0, 3.0, 4.0, 6.0] sobre lote_dis.zip; K con la mayor coincidencia (100%); en empate se conserva el vigente. σ̂ ≈ 0.113·σ"
+  },
+  "sin_calibrar": {
+    "THETA_MAX": "faltan fotos a 15–20° (se conserva 30°)",
+    "SIGMA_ALTO": "requiere imágenes con ruido sintético"
+  }
+}

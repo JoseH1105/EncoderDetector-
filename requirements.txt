@@ -1,0 +1,5 @@
+opencv-python
+numpy
+gradio>=5
+matplotlib
+pandas

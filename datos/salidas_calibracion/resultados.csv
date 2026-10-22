@@ -1,0 +1,138 @@
+archivo,condicion,conjunto,debe_fallar,disco,disco_origen,veredicto,clases_A,clase_B,motivos,criterios_fallados,N,k_star,N_azul,n_manchas,theta_ref,A_esperado,B_esperado,acierto_A,acierto_B,rechazo_esperado,rechazo_correcto
+Campo oscuro/Manchadas/IMG_0974.JPG,Campo oscuro/Manchadas,diseno,,anadido,sugerido,DEFECTUOSO,A3,B1,,,16.0,16.0,0.0,4.0,297.66843782301964,A3,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0975.JPG,Campo oscuro/Manchadas,diseno,,anadido,sugerido,DEFECTUOSO,A3,B1,,,16.0,16.0,0.0,4.0,297.28245622351545,A3,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0976.JPG,Campo oscuro/Manchadas,prueba,,anadido,sugerido,DEFECTUOSO,A3,B1,,,16.0,16.0,0.0,4.0,297.404293776065,A3,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0980.JPG,Campo oscuro/Manchadas,diseno,,ausente,sugerido,DEFECTUOSO,A1,B1,,,12.0,12.0,2.0,3.0,324.2718365006335,A1,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0981.JPG,Campo oscuro/Manchadas,diseno,,ausente,sugerido,DEFECTUOSO,A1,B1,,,12.0,12.0,2.0,3.0,323.9917222114409,A1,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0982.JPG,Campo oscuro/Manchadas,prueba,,ausente,sugerido,DEFECTUOSO,A1,B1,,,12.0,12.0,2.0,3.0,324.0342219976577,A1,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0989.JPG,Campo oscuro/Manchadas,diseno,,correcto,sugerido,DEFECTUOSO,A0,B1,,,12.0,12.0,0.0,4.0,10.486547653232924,A0,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0990.JPG,Campo oscuro/Manchadas,diseno,,correcto,sugerido,DEFECTUOSO,A0,B1,,,12.0,12.0,0.0,4.0,9.478450920857739,A0,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0991.JPG,Campo oscuro/Manchadas,prueba,,correcto,sugerido,DEFECTUOSO,A0,B1,,,12.0,12.0,0.0,4.0,8.163135508318378,A0,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0992.JPG,Campo oscuro/Manchadas,diseno,,anchura,sugerido,DEFECTUOSO,A2,B1,,,11.0,11.0,0.0,4.0,111.73604967083254,A2,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0993.JPG,Campo oscuro/Manchadas,diseno,,anchura,sugerido,DEFECTUOSO,A2,B1,,,11.0,11.0,0.0,4.0,112.50519098862509,A2,B1,1.0,1.0,False,True
+Campo oscuro/Manchadas/IMG_0994.JPG,Campo oscuro/Manchadas,prueba,,anchura,sugerido,DEFECTUOSO,A2,B1,,,11.0,11.0,0.0,4.0,111.93644758090483,A2,B1,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0950.JPG,Campo oscuro/Normales,diseno,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,358.080064119954,A2,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0951.JPG,Campo oscuro/Normales,diseno,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,359.20456763899983,A2,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0952.JPG,Campo oscuro/Normales,prueba,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,358.33631401636865,A2,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0953.JPG,Campo oscuro/Normales,diseno,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,153.62585876568514,A1,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0954.JPG,Campo oscuro/Normales,diseno,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,153.95153274093406,A1,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0955.JPG,Campo oscuro/Normales,prueba,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,154.4815627327836,A1,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0961.JPG,Campo oscuro/Normales,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,284.47106510819697,A0,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0962.JPG,Campo oscuro/Normales,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,283.0039468492628,A0,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0964.JPG,Campo oscuro/Normales,prueba,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,281.9654850305837,A0,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0971.JPG,Campo oscuro/Normales,diseno,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,200.63635908975408,A3,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0972.JPG,Campo oscuro/Normales,diseno,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,199.6400249893704,A3,B0,1.0,1.0,False,True
+Campo oscuro/Normales/IMG_0973.JPG,Campo oscuro/Normales,prueba,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,199.6808520206116,A3,B0,1.0,1.0,False,True
+Desenfocadas/IMG_0933.JPG,Desenfocadas,diseno,enfoque,anchura,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A2,B0,,,True,True
+Desenfocadas/IMG_0934.JPG,Desenfocadas,diseno,enfoque,anchura,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A2,B0,,,True,True
+Desenfocadas/IMG_0935.JPG,Desenfocadas,prueba,enfoque,anchura,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A2,B0,,,True,True
+Desenfocadas/IMG_0937.JPG,Desenfocadas,diseno,enfoque,correcto,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A0,B0,,,True,True
+Desenfocadas/IMG_0939.JPG,Desenfocadas,diseno,enfoque,correcto,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A0,B0,,,True,True
+Desenfocadas/IMG_0940.JPG,Desenfocadas,prueba,enfoque,correcto,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A0,B0,,,True,True
+Desenfocadas/IMG_0941.JPG,Desenfocadas,diseno,enfoque,anadido,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada | No se encontró la línea azul de referencia,Nitidez;Línea de referencia visible,,,,,,A3,B0,,,True,True
+Desenfocadas/IMG_0942.JPG,Desenfocadas,diseno,enfoque,anadido,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A3,B0,,,True,True
+Desenfocadas/IMG_0943.JPG,Desenfocadas,prueba,enfoque,anadido,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A3,B0,,,True,True
+Desenfocadas/IMG_0945.JPG,Desenfocadas,diseno,enfoque,ausente,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A1,B0,,,True,True
+Desenfocadas/IMG_0947.JPG,Desenfocadas,diseno,enfoque,ausente,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A1,B0,,,True,True
+Desenfocadas/IMG_0949.JPG,Desenfocadas,prueba,enfoque,ausente,sugerido,NO DIAGNOSTICABLE,,,La foto está desenfocada,Nitidez,,,,,,A1,B0,,,True,True
+Inclinación/Manchas/IMG_0919.JPG,Inclinación/Manchas,diseno,inclinacion,anadido,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A3,B1,,,True,True
+Inclinación/Manchas/IMG_0920.JPG,Inclinación/Manchas,diseno,inclinacion,anadido,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A3,B1,,,True,True
+Inclinación/Manchas/IMG_0921.JPG,Inclinación/Manchas,prueba,inclinacion,anadido,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A3,B1,,,True,True
+Inclinación/Manchas/IMG_0922.JPG,Inclinación/Manchas,diseno,inclinacion,anchura,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A2,B1,,,True,True
+Inclinación/Manchas/IMG_0924.JPG,Inclinación/Manchas,diseno,inclinacion,anchura,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A2,B1,,,True,True
+Inclinación/Manchas/IMG_0925.JPG,Inclinación/Manchas,prueba,inclinacion,anchura,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A2,B1,,,True,True
+Inclinación/Manchas/IMG_0926.JPG,Inclinación/Manchas,diseno,inclinacion,ausente,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A1,B1,,,True,True
+Inclinación/Manchas/IMG_0927.JPG,Inclinación/Manchas,diseno,inclinacion,ausente,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A1,B1,,,True,True
+Inclinación/Manchas/IMG_0928.JPG,Inclinación/Manchas,prueba,inclinacion,ausente,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A1,B1,,,True,True
+Inclinación/Manchas/IMG_0929.JPG,Inclinación/Manchas,diseno,inclinacion,correcto,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A0,B1,,,True,True
+Inclinación/Manchas/IMG_0930.JPG,Inclinación/Manchas,diseno,inclinacion,correcto,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A0,B1,,,True,True
+Inclinación/Manchas/IMG_0931.JPG,Inclinación/Manchas,prueba,inclinacion,correcto,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A0,B1,,,True,True
+Inclinación/Normal/IMG_0902.JPG,Inclinación/Normal,diseno,inclinacion,anchura,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A2,B0,,,True,True
+Inclinación/Normal/IMG_0905.JPG,Inclinación/Normal,diseno,inclinacion,anchura,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A2,B0,,,True,True
+Inclinación/Normal/IMG_0907.JPG,Inclinación/Normal,prueba,inclinacion,anchura,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A2,B0,,,True,True
+Inclinación/Normal/IMG_0908.JPG,Inclinación/Normal,diseno,inclinacion,correcto,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A0,B0,,,True,True
+Inclinación/Normal/IMG_0909.JPG,Inclinación/Normal,diseno,inclinacion,correcto,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A0,B0,,,True,True
+Inclinación/Normal/IMG_0910.JPG,Inclinación/Normal,prueba,inclinacion,correcto,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A0,B0,,,True,True
+Inclinación/Normal/IMG_0912.JPG,Inclinación/Normal,diseno,inclinacion,ausente,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A1,B0,,,True,True
+Inclinación/Normal/IMG_0913.JPG,Inclinación/Normal,diseno,inclinacion,ausente,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A1,B0,,,True,True
+Inclinación/Normal/IMG_0915.JPG,Inclinación/Normal,prueba,inclinacion,ausente,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A1,B0,,,True,True
+Inclinación/Normal/IMG_0916.JPG,Inclinación/Normal,diseno,inclinacion,anadido,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A3,B0,,,True,True
+Inclinación/Normal/IMG_0917.JPG,Inclinación/Normal,diseno,inclinacion,anadido,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A3,B0,,,True,True
+Inclinación/Normal/IMG_0918.JPG,Inclinación/Normal,prueba,inclinacion,anadido,sugerido,NO DIAGNOSTICABLE,,,El disco está demasiado inclinado respecto a la cámara,Inclinación,,,,,,A3,B0,,,True,True
+Largo/IMG_0872.JPG,Largo,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,54.80624925238031,A0,B0,1.0,1.0,False,True
+Largo/IMG_0873.JPG,Largo,diseno,,correcto,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia,Zona de la línea quemada,,,,,,A0,B0,,,False,False
+Largo/IMG_0874.JPG,Largo,prueba,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,54.94141029448483,A0,B0,1.0,1.0,False,True
+Largo/IMG_0875.JPG,Largo,diseno,,correcto,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia,Zona de la línea quemada,,,,,,A0,B0,,,False,False
+Largo/IMG_0877.JPG,Largo,diseno,,correcto,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia,Zona de la línea quemada,,,,,,A0,B0,,,False,False
+Largo/IMG_0878.JPG,Largo,prueba,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,144.941402741853,A0,B0,1.0,1.0,False,True
+Largo/IMG_0880.JPG,Largo,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,144.72586819954782,A0,B0,1.0,1.0,False,True
+Largo/IMG_0882.JPG,Largo,diseno,,anadido,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia,Zona de la línea quemada,,,,,,A3,B0,,,False,False
+Largo/IMG_0883.JPG,Largo,prueba,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,356.11469103199687,A3,B0,1.0,1.0,False,True
+Largo/IMG_0884.JPG,Largo,diseno,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,356.83857764640186,A3,B0,1.0,1.0,False,True
+Largo/IMG_0885.JPG,Largo,diseno,,anchura,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia,Zona de la línea quemada,,,,,,A2,B0,,,False,False
+Largo/IMG_0886.JPG,Largo,prueba,,anchura,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia,Zona de la línea quemada,,,,,,A2,B0,,,False,False
+Largo/IMG_0887.JPG,Largo,diseno,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,271.68274436609624,A2,B0,1.0,1.0,False,True
+Largo/IMG_0888.JPG,Largo,diseno,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,270.911308703086,A2,B0,1.0,1.0,False,True
+Largo/IMG_0890.JPG,Largo,prueba,,ausente,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia,Zona de la línea quemada,,,,,,A1,B0,,,False,False
+Largo/IMG_0891.JPG,Largo,diseno,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,55.381578073055756,A1,B0,1.0,1.0,False,True
+Largo/IMG_0892.JPG,Largo,diseno,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,55.24806280850348,A1,B0,1.0,1.0,False,True
+Luz difusa/IMG_0850.JPG,Luz difusa,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,137.09294063900333,A0,B0,1.0,1.0,False,True
+Luz difusa/IMG_0851.JPG,Luz difusa,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,137.20469334093735,A0,B0,1.0,1.0,False,True
+Luz difusa/IMG_0852.JPG,Luz difusa,prueba,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,137.18617724717777,A0,B0,1.0,1.0,False,True
+Luz difusa/IMG_0857.JPG,Luz difusa,diseno,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,294.36914191804533,A2,B0,1.0,1.0,False,True
+Luz difusa/IMG_0858.JPG,Luz difusa,diseno,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,294.3334350053753,A2,B0,1.0,1.0,False,True
+Luz difusa/IMG_0860.JPG,Luz difusa,prueba,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,293.4557752584581,A2,B0,1.0,1.0,False,True
+Luz difusa/IMG_0861.JPG,Luz difusa,diseno,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,220.94938954407615,A3,B0,1.0,1.0,False,True
+Luz difusa/IMG_0862.JPG,Luz difusa,diseno,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,221.80850770126565,A3,B0,1.0,1.0,False,True
+Luz difusa/IMG_0863.JPG,Luz difusa,prueba,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,221.45067840593572,A3,B0,1.0,1.0,False,True
+Luz difusa/IMG_0868.JPG,Luz difusa,diseno,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,180.05935519492854,A1,B0,1.0,1.0,False,True
+Luz difusa/IMG_0869.JPG,Luz difusa,diseno,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,179.79948999295965,A1,B0,1.0,1.0,False,True
+Luz difusa/IMG_0870.JPG,Luz difusa,prueba,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,182.07098846824985,A1,B0,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0829.JPG,Luz directa/Manchas,diseno,,correcto,sugerido,DEFECTUOSO,A0,B1,,,12.0,12.0,0.0,4.0,85.43074939598507,A0,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0830.JPG,Luz directa/Manchas,diseno,,correcto,sugerido,DEFECTUOSO,A0,B1,,,12.0,12.0,0.0,4.0,85.7248163252156,A0,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0831.JPG,Luz directa/Manchas,prueba,,correcto,sugerido,DEFECTUOSO,A0,B1,,,12.0,12.0,0.0,4.0,86.2006550411773,A0,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0833.JPG,Luz directa/Manchas,diseno,,anadido,sugerido,DEFECTUOSO,A3,B1,,,16.0,16.0,0.0,4.0,167.13894179572222,A3,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0834.JPG,Luz directa/Manchas,diseno,,anadido,sugerido,DEFECTUOSO,A3,B1,,,16.0,16.0,0.0,4.0,168.0055760480304,A3,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0836.JPG,Luz directa/Manchas,prueba,,anadido,sugerido,DEFECTUOSO,A3,B1,,,16.0,16.0,0.0,4.0,167.72075446813903,A3,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0838.JPG,Luz directa/Manchas,diseno,,anchura,sugerido,DEFECTUOSO,A2,B1,,,11.0,11.0,0.0,4.0,343.04551647762804,A2,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0841.JPG,Luz directa/Manchas,diseno,,anchura,sugerido,DEFECTUOSO,A2,B1,,,11.0,11.0,0.0,4.0,343.19958912208375,A2,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0842.JPG,Luz directa/Manchas,prueba,,anchura,sugerido,DEFECTUOSO,A2,B1,,,11.0,11.0,0.0,4.0,253.54874074379572,A2,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0845.JPG,Luz directa/Manchas,diseno,,ausente,sugerido,DEFECTUOSO,A1,B1,,,12.0,12.0,2.0,3.0,202.7411867967567,A1,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0846.JPG,Luz directa/Manchas,diseno,,ausente,sugerido,DEFECTUOSO,A1,B1,,,12.0,12.0,2.0,3.0,202.78182392181182,A1,B1,1.0,1.0,False,True
+Luz directa/Manchas/IMG_0848.JPG,Luz directa/Manchas,prueba,,ausente,sugerido,DEFECTUOSO,A1,B1,,,12.0,12.0,2.0,3.0,202.3751408913772,A1,B1,1.0,1.0,False,True
+Luz directa/Normales/IMG_0804.JPG,Luz directa/Normales,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,0.9121176618556474,A0,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0809.JPG,Luz directa/Normales,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,0.2706042411491374,A0,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0811.JPG,Luz directa/Normales,prueba,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,358.7505962919268,A0,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0812.JPG,Luz directa/Normales,diseno,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,1.4980253870252576,A3,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0813.JPG,Luz directa/Normales,diseno,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,1.3455611083854557,A3,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0814.JPG,Luz directa/Normales,prueba,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,1.4363928236131323,A3,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0816.JPG,Luz directa/Normales,diseno,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,2.3374669836436994,A2,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0818.JPG,Luz directa/Normales,diseno,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,1.4294719703424192,A2,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0819.JPG,Luz directa/Normales,prueba,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,2.528709284326744,A2,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0823.JPG,Luz directa/Normales,diseno,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,0.26399606840704276,A1,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0825.JPG,Luz directa/Normales,diseno,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,1.0169179457626532,A1,B0,1.0,1.0,False,True
+Luz directa/Normales/IMG_0827.JPG,Luz directa/Normales,prueba,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,0.13283763932987067,A1,B0,1.0,1.0,False,True
+Mala iluminación/Mucho brillo/IMG_1016.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anadido,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A3,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1017.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anadido,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A3,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1021.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,anchura,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A2,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1022.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anchura,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A2,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1023.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,ausente,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A1,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1024.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,ausente,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A1,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1027.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,correcto,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A0,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1028.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,correcto,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A0,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1029.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,correcto,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A0,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1031.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,correcto,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A0,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1032.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anadido,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A3,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1035.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,anadido,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A3,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1037.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,ausente,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia,Zona de la línea quemada,,,,,,A1,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1038.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,correcto,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A0,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1040.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,anchura,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A2,B0,,,True,True
+Mala iluminación/Mucho brillo/IMG_1041.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anchura,sugerido,NO DIAGNOSTICABLE,,,Hay demasiada luz en la zona de la línea de referencia | No se encontró la línea azul de referencia,Zona de la línea quemada;Línea de referencia visible,,,,,,A2,B0,,,True,True
+Mala iluminación/Oscuras/IMG_0995.JPG,Mala iluminación/Oscuras,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,148.93677438027512,A0,B0,1.0,1.0,False,True
+Mala iluminación/Oscuras/IMG_0997.JPG,Mala iluminación/Oscuras,diseno,,correcto,sugerido,CORRECTO,A0,B0,,,12.0,12.0,0.0,0.0,148.02114337758792,A0,B0,1.0,1.0,False,True
+Mala iluminación/Oscuras/IMG_0998.JPG,Mala iluminación/Oscuras,prueba,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,282.5655035489434,A2,B0,1.0,1.0,False,True
+Mala iluminación/Oscuras/IMG_0999.JPG,Mala iluminación/Oscuras,diseno,,anchura,sugerido,DEFECTUOSO,A2,B0,,,11.0,11.0,0.0,0.0,282.0454329275493,A2,B0,1.0,1.0,False,True
+Mala iluminación/Oscuras/IMG_1000.JPG,Mala iluminación/Oscuras,diseno,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,134.15045351455888,A1,B0,1.0,1.0,False,True
+Mala iluminación/Oscuras/IMG_1001.JPG,Mala iluminación/Oscuras,prueba,,ausente,sugerido,DEFECTUOSO,A1,B0,,,12.0,12.0,2.0,0.0,133.5010148322184,A1,B0,1.0,1.0,False,True
+Mala iluminación/Oscuras/IMG_1006.JPG,Mala iluminación/Oscuras,diseno,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,226.8869949295544,A3,B0,1.0,1.0,False,True
+Mala iluminación/Oscuras/IMG_1007.JPG,Mala iluminación/Oscuras,diseno,,anadido,sugerido,DEFECTUOSO,A3,B0,,,16.0,16.0,0.0,0.0,226.6595313902542,A3,B0,1.0,1.0,False,True

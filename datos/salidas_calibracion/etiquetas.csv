@@ -1,0 +1,138 @@
+archivo,condicion,conjunto,debe_fallar,disco,disco_origen
+Campo oscuro/Manchadas/IMG_0974.JPG,Campo oscuro/Manchadas,diseno,,anadido,sugerido
+Campo oscuro/Manchadas/IMG_0975.JPG,Campo oscuro/Manchadas,diseno,,anadido,sugerido
+Campo oscuro/Manchadas/IMG_0976.JPG,Campo oscuro/Manchadas,prueba,,anadido,sugerido
+Campo oscuro/Manchadas/IMG_0980.JPG,Campo oscuro/Manchadas,diseno,,ausente,sugerido
+Campo oscuro/Manchadas/IMG_0981.JPG,Campo oscuro/Manchadas,diseno,,ausente,sugerido
+Campo oscuro/Manchadas/IMG_0982.JPG,Campo oscuro/Manchadas,prueba,,ausente,sugerido
+Campo oscuro/Manchadas/IMG_0989.JPG,Campo oscuro/Manchadas,diseno,,correcto,sugerido
+Campo oscuro/Manchadas/IMG_0990.JPG,Campo oscuro/Manchadas,diseno,,correcto,sugerido
+Campo oscuro/Manchadas/IMG_0991.JPG,Campo oscuro/Manchadas,prueba,,correcto,sugerido
+Campo oscuro/Manchadas/IMG_0992.JPG,Campo oscuro/Manchadas,diseno,,anchura,sugerido
+Campo oscuro/Manchadas/IMG_0993.JPG,Campo oscuro/Manchadas,diseno,,anchura,sugerido
+Campo oscuro/Manchadas/IMG_0994.JPG,Campo oscuro/Manchadas,prueba,,anchura,sugerido
+Campo oscuro/Normales/IMG_0950.JPG,Campo oscuro/Normales,diseno,,anchura,sugerido
+Campo oscuro/Normales/IMG_0951.JPG,Campo oscuro/Normales,diseno,,anchura,sugerido
+Campo oscuro/Normales/IMG_0952.JPG,Campo oscuro/Normales,prueba,,anchura,sugerido
+Campo oscuro/Normales/IMG_0953.JPG,Campo oscuro/Normales,diseno,,ausente,sugerido
+Campo oscuro/Normales/IMG_0954.JPG,Campo oscuro/Normales,diseno,,ausente,sugerido
+Campo oscuro/Normales/IMG_0955.JPG,Campo oscuro/Normales,prueba,,ausente,sugerido
+Campo oscuro/Normales/IMG_0961.JPG,Campo oscuro/Normales,diseno,,correcto,sugerido
+Campo oscuro/Normales/IMG_0962.JPG,Campo oscuro/Normales,diseno,,correcto,sugerido
+Campo oscuro/Normales/IMG_0964.JPG,Campo oscuro/Normales,prueba,,correcto,sugerido
+Campo oscuro/Normales/IMG_0971.JPG,Campo oscuro/Normales,diseno,,anadido,sugerido
+Campo oscuro/Normales/IMG_0972.JPG,Campo oscuro/Normales,diseno,,anadido,sugerido
+Campo oscuro/Normales/IMG_0973.JPG,Campo oscuro/Normales,prueba,,anadido,sugerido
+Desenfocadas/IMG_0933.JPG,Desenfocadas,diseno,enfoque,anchura,sugerido
+Desenfocadas/IMG_0934.JPG,Desenfocadas,diseno,enfoque,anchura,sugerido
+Desenfocadas/IMG_0935.JPG,Desenfocadas,prueba,enfoque,anchura,sugerido
+Desenfocadas/IMG_0937.JPG,Desenfocadas,diseno,enfoque,correcto,sugerido
+Desenfocadas/IMG_0939.JPG,Desenfocadas,diseno,enfoque,correcto,sugerido
+Desenfocadas/IMG_0940.JPG,Desenfocadas,prueba,enfoque,correcto,sugerido
+Desenfocadas/IMG_0941.JPG,Desenfocadas,diseno,enfoque,anadido,sugerido
+Desenfocadas/IMG_0942.JPG,Desenfocadas,diseno,enfoque,anadido,sugerido
+Desenfocadas/IMG_0943.JPG,Desenfocadas,prueba,enfoque,anadido,sugerido
+Desenfocadas/IMG_0945.JPG,Desenfocadas,diseno,enfoque,ausente,sugerido
+Desenfocadas/IMG_0947.JPG,Desenfocadas,diseno,enfoque,ausente,sugerido
+Desenfocadas/IMG_0949.JPG,Desenfocadas,prueba,enfoque,ausente,sugerido
+Inclinación/Manchas/IMG_0919.JPG,Inclinación/Manchas,diseno,inclinacion,anadido,sugerido
+Inclinación/Manchas/IMG_0920.JPG,Inclinación/Manchas,diseno,inclinacion,anadido,sugerido
+Inclinación/Manchas/IMG_0921.JPG,Inclinación/Manchas,prueba,inclinacion,anadido,sugerido
+Inclinación/Manchas/IMG_0922.JPG,Inclinación/Manchas,diseno,inclinacion,anchura,sugerido
+Inclinación/Manchas/IMG_0924.JPG,Inclinación/Manchas,diseno,inclinacion,anchura,sugerido
+Inclinación/Manchas/IMG_0925.JPG,Inclinación/Manchas,prueba,inclinacion,anchura,sugerido
+Inclinación/Manchas/IMG_0926.JPG,Inclinación/Manchas,diseno,inclinacion,ausente,sugerido
+Inclinación/Manchas/IMG_0927.JPG,Inclinación/Manchas,diseno,inclinacion,ausente,sugerido
+Inclinación/Manchas/IMG_0928.JPG,Inclinación/Manchas,prueba,inclinacion,ausente,sugerido
+Inclinación/Manchas/IMG_0929.JPG,Inclinación/Manchas,diseno,inclinacion,correcto,sugerido
+Inclinación/Manchas/IMG_0930.JPG,Inclinación/Manchas,diseno,inclinacion,correcto,sugerido
+Inclinación/Manchas/IMG_0931.JPG,Inclinación/Manchas,prueba,inclinacion,correcto,sugerido
+Inclinación/Normal/IMG_0902.JPG,Inclinación/Normal,diseno,inclinacion,anchura,sugerido
+Inclinación/Normal/IMG_0905.JPG,Inclinación/Normal,diseno,inclinacion,anchura,sugerido
+Inclinación/Normal/IMG_0907.JPG,Inclinación/Normal,prueba,inclinacion,anchura,sugerido
+Inclinación/Normal/IMG_0908.JPG,Inclinación/Normal,diseno,inclinacion,correcto,sugerido
+Inclinación/Normal/IMG_0909.JPG,Inclinación/Normal,diseno,inclinacion,correcto,sugerido
+Inclinación/Normal/IMG_0910.JPG,Inclinación/Normal,prueba,inclinacion,correcto,sugerido
+Inclinación/Normal/IMG_0912.JPG,Inclinación/Normal,diseno,inclinacion,ausente,sugerido
+Inclinación/Normal/IMG_0913.JPG,Inclinación/Normal,diseno,inclinacion,ausente,sugerido
+Inclinación/Normal/IMG_0915.JPG,Inclinación/Normal,prueba,inclinacion,ausente,sugerido
+Inclinación/Normal/IMG_0916.JPG,Inclinación/Normal,diseno,inclinacion,anadido,sugerido
+Inclinación/Normal/IMG_0917.JPG,Inclinación/Normal,diseno,inclinacion,anadido,sugerido
+Inclinación/Normal/IMG_0918.JPG,Inclinación/Normal,prueba,inclinacion,anadido,sugerido
+Largo/IMG_0872.JPG,Largo,diseno,,correcto,sugerido
+Largo/IMG_0873.JPG,Largo,diseno,,correcto,sugerido
+Largo/IMG_0874.JPG,Largo,prueba,,correcto,sugerido
+Largo/IMG_0875.JPG,Largo,diseno,,correcto,sugerido
+Largo/IMG_0877.JPG,Largo,diseno,,correcto,sugerido
+Largo/IMG_0878.JPG,Largo,prueba,,correcto,sugerido
+Largo/IMG_0880.JPG,Largo,diseno,,correcto,sugerido
+Largo/IMG_0882.JPG,Largo,diseno,,anadido,sugerido
+Largo/IMG_0883.JPG,Largo,prueba,,anadido,sugerido
+Largo/IMG_0884.JPG,Largo,diseno,,anadido,sugerido
+Largo/IMG_0885.JPG,Largo,diseno,,anchura,sugerido
+Largo/IMG_0886.JPG,Largo,prueba,,anchura,sugerido
+Largo/IMG_0887.JPG,Largo,diseno,,anchura,sugerido
+Largo/IMG_0888.JPG,Largo,diseno,,anchura,sugerido
+Largo/IMG_0890.JPG,Largo,prueba,,ausente,sugerido
+Largo/IMG_0891.JPG,Largo,diseno,,ausente,sugerido
+Largo/IMG_0892.JPG,Largo,diseno,,ausente,sugerido
+Luz difusa/IMG_0850.JPG,Luz difusa,diseno,,correcto,sugerido
+Luz difusa/IMG_0851.JPG,Luz difusa,diseno,,correcto,sugerido
+Luz difusa/IMG_0852.JPG,Luz difusa,prueba,,correcto,sugerido
+Luz difusa/IMG_0857.JPG,Luz difusa,diseno,,anchura,sugerido
+Luz difusa/IMG_0858.JPG,Luz difusa,diseno,,anchura,sugerido
+Luz difusa/IMG_0860.JPG,Luz difusa,prueba,,anchura,sugerido
+Luz difusa/IMG_0861.JPG,Luz difusa,diseno,,anadido,sugerido
+Luz difusa/IMG_0862.JPG,Luz difusa,diseno,,anadido,sugerido
+Luz difusa/IMG_0863.JPG,Luz difusa,prueba,,anadido,sugerido
+Luz difusa/IMG_0868.JPG,Luz difusa,diseno,,ausente,sugerido
+Luz difusa/IMG_0869.JPG,Luz difusa,diseno,,ausente,sugerido
+Luz difusa/IMG_0870.JPG,Luz difusa,prueba,,ausente,sugerido
+Luz directa/Manchas/IMG_0829.JPG,Luz directa/Manchas,diseno,,correcto,sugerido
+Luz directa/Manchas/IMG_0830.JPG,Luz directa/Manchas,diseno,,correcto,sugerido
+Luz directa/Manchas/IMG_0831.JPG,Luz directa/Manchas,prueba,,correcto,sugerido
+Luz directa/Manchas/IMG_0833.JPG,Luz directa/Manchas,diseno,,anadido,sugerido
+Luz directa/Manchas/IMG_0834.JPG,Luz directa/Manchas,diseno,,anadido,sugerido
+Luz directa/Manchas/IMG_0836.JPG,Luz directa/Manchas,prueba,,anadido,sugerido
+Luz directa/Manchas/IMG_0838.JPG,Luz directa/Manchas,diseno,,anchura,sugerido
+Luz directa/Manchas/IMG_0841.JPG,Luz directa/Manchas,diseno,,anchura,sugerido
+Luz directa/Manchas/IMG_0842.JPG,Luz directa/Manchas,prueba,,anchura,sugerido
+Luz directa/Manchas/IMG_0845.JPG,Luz directa/Manchas,diseno,,ausente,sugerido
+Luz directa/Manchas/IMG_0846.JPG,Luz directa/Manchas,diseno,,ausente,sugerido
+Luz directa/Manchas/IMG_0848.JPG,Luz directa/Manchas,prueba,,ausente,sugerido
+Luz directa/Normales/IMG_0804.JPG,Luz directa/Normales,diseno,,correcto,sugerido
+Luz directa/Normales/IMG_0809.JPG,Luz directa/Normales,diseno,,correcto,sugerido
+Luz directa/Normales/IMG_0811.JPG,Luz directa/Normales,prueba,,correcto,sugerido
+Luz directa/Normales/IMG_0812.JPG,Luz directa/Normales,diseno,,anadido,sugerido
+Luz directa/Normales/IMG_0813.JPG,Luz directa/Normales,diseno,,anadido,sugerido
+Luz directa/Normales/IMG_0814.JPG,Luz directa/Normales,prueba,,anadido,sugerido
+Luz directa/Normales/IMG_0816.JPG,Luz directa/Normales,diseno,,anchura,sugerido
+Luz directa/Normales/IMG_0818.JPG,Luz directa/Normales,diseno,,anchura,sugerido
+Luz directa/Normales/IMG_0819.JPG,Luz directa/Normales,prueba,,anchura,sugerido
+Luz directa/Normales/IMG_0823.JPG,Luz directa/Normales,diseno,,ausente,sugerido
+Luz directa/Normales/IMG_0825.JPG,Luz directa/Normales,diseno,,ausente,sugerido
+Luz directa/Normales/IMG_0827.JPG,Luz directa/Normales,prueba,,ausente,sugerido
+Mala iluminación/Mucho brillo/IMG_1016.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anadido,sugerido
+Mala iluminación/Mucho brillo/IMG_1017.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anadido,sugerido
+Mala iluminación/Mucho brillo/IMG_1021.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,anchura,sugerido
+Mala iluminación/Mucho brillo/IMG_1022.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anchura,sugerido
+Mala iluminación/Mucho brillo/IMG_1023.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,ausente,sugerido
+Mala iluminación/Mucho brillo/IMG_1024.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,ausente,sugerido
+Mala iluminación/Mucho brillo/IMG_1027.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,correcto,sugerido
+Mala iluminación/Mucho brillo/IMG_1028.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,correcto,sugerido
+Mala iluminación/Mucho brillo/IMG_1029.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,correcto,sugerido
+Mala iluminación/Mucho brillo/IMG_1031.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,correcto,sugerido
+Mala iluminación/Mucho brillo/IMG_1032.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anadido,sugerido
+Mala iluminación/Mucho brillo/IMG_1035.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,anadido,sugerido
+Mala iluminación/Mucho brillo/IMG_1037.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,ausente,sugerido
+Mala iluminación/Mucho brillo/IMG_1038.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,correcto,sugerido
+Mala iluminación/Mucho brillo/IMG_1040.JPG,Mala iluminación/Mucho brillo,prueba,exposicion,anchura,sugerido
+Mala iluminación/Mucho brillo/IMG_1041.JPG,Mala iluminación/Mucho brillo,diseno,exposicion,anchura,sugerido
+Mala iluminación/Oscuras/IMG_0995.JPG,Mala iluminación/Oscuras,diseno,,correcto,sugerido
+Mala iluminación/Oscuras/IMG_0997.JPG,Mala iluminación/Oscuras,diseno,,correcto,sugerido
+Mala iluminación/Oscuras/IMG_0998.JPG,Mala iluminación/Oscuras,prueba,,anchura,sugerido
+Mala iluminación/Oscuras/IMG_0999.JPG,Mala iluminación/Oscuras,diseno,,anchura,sugerido
+Mala iluminación/Oscuras/IMG_1000.JPG,Mala iluminación/Oscuras,diseno,,ausente,sugerido
+Mala iluminación/Oscuras/IMG_1001.JPG,Mala iluminación/Oscuras,prueba,,ausente,sugerido
+Mala iluminación/Oscuras/IMG_1006.JPG,Mala iluminación/Oscuras,diseno,,anadido,sugerido
+Mala iluminación/Oscuras/IMG_1007.JPG,Mala iluminación/Oscuras,diseno,,anadido,sugerido
